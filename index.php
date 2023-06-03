@@ -28,6 +28,19 @@
 
 </head>
 <body>
-	hello
+	<div class="container">
+		<div class="row">
+			<div class="col-md-3"></div>
+			<div class="col-md-6">
+				<form>
+					<input class="form-control" name="lucky_number" placeholder="Lucky Number">
+					<input class="form-control" name="name" placeholder="Name">
+					<input class="form-control" name="account_name" placeholder="Account Name">
+					<input class="form-control" name="city" placeholder="Address">
+					<input class="form-control" name="phone" placeholder="Phone Number">
+				</form>
+			</div>
+		</div>
+	</div>
 </body>
 </html>
